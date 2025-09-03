@@ -8,6 +8,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ Important: allow pushing to repo
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -18,10 +20,11 @@ jobs:
           github_user_name: vaghaniharshh
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: GitHub Action
-          author_email: actions@github.com
-          message: "🐍 Generate Snake"
-          add: "dist/github-contribution-grid-snake.svg"
+      - name: Commit and Push Snake
+        run: |
+          mkdir -p dist
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "🐍 Update Snake animation" || echo "No changes to commit"
+          git push
