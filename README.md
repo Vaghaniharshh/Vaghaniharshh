@@ -21,7 +21,7 @@
 - 🌱 I’m learning **Frontend & Backend Development**  
 - 👨‍💻 Check out my projects here 👉 [GitHub](https://github.com/vaghaniharshh)  
 - 📫 Reach me at **hvaghani89@gmail.com**  
-- ⚡ Fun fact: *I love solving problems and exploring new tech every day*  
+- ⚡ Fun fact: *I love exploring new tech every day*  
 
 ---
 
