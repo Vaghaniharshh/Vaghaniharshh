@@ -72,6 +72,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaghaniharshh&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+---
+![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/snake.svg)
+
 
 ---
 
