@@ -61,9 +61,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vaghaniharshh&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
+---
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaghaniharshh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vaghaniharshh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+---
+
 
 ---
 
