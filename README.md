@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Vaghani</h1>
-<h3 align="center">💻 A Passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Harsh Vaghani</h1> 
+<h3 align="center">💻 A Passionate FullStack Developer from India</h3>  
 
 ---
 
@@ -16,17 +16,15 @@
 ---
 
 ### 👨‍💻 About Me  
-
 - 🔭 I’m currently working on **HTML / CSS Projects**  
 - 🌱 I’m learning **Frontend & Backend Development**  
-- 👨‍💻 Check out my projects here 👉 [GitHub](https://github.com/vaghaniharshh)  
+- 👨‍💻 Check out my projects 👉 [GitHub](https://github.com/vaghaniharshh)  
 - 📫 Reach me at **hvaghani89@gmail.com**  
 - ⚡ Fun fact: *I love exploring new tech every day*  
 
 ---
 
 ### 🌐 Connect with Me  
-
 <p align="left">
   <a href="mailto:hvaghani89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/harshhvaghani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -36,7 +34,6 @@
 ---
 
 ### ⚒️ Languages & Tools  
-
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -52,7 +49,6 @@
 ---
 
 ### 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaghaniharshh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -62,29 +58,31 @@
 </p>
 
 ---
-### 🔥 GitHub Streak
+
+### 🔥 GitHub Streak  
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaghaniharshh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vaghaniharshh&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
----
 
 
 ---
+
+
 
 ### 📈 Contribution Graph  
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaghaniharshh&theme=tokyo-night" alt="Contribution Graph" />
 </p>
----
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Vaghaniharshh/Vaghaniharshh/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/Vaghaniharshh/Vaghaniharshh/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ### 🚀 Fun Extras  
-
 - 🎯 Always exploring **new tech stacks**  
 - 📝 Sometimes I write about coding & development  
 - 🧩 Motto: *Keep learning, keep building*  
