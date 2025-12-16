@@ -1,81 +1,135 @@
-<h1 align="center">Hi 👋, I'm Harsh Vaghani</h1> 
-<h3 align="center">💻 A Passionate FullStack Developer from India</h3>  
+<h1 align="center">Hi 👋, I'm Harsh Vaghani</h1>
+<h3 align="center">MERN Stack Developer (Fresher) | Building Full Stack Web Applications</h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshhVaghani&label=Profile%20views&color=0e75b6&style=flat" alt="vaghaniharshh" />
+  <img src="https://komarev.com/ghpvc/?username=HarshhVaghani&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HarshhVaghani&theme=tokyonight&margin-w=10&margin-h=10" alt="vaghaniharshh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshhVaghani&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshhVaghani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+---
+
+## 👨‍💻 About Me
+
+I am a **MERN Stack Developer (Fresher)** with a strong foundation in **MongoDB, Express.js, React.js, and Node.js**.  
+I am passionate about building **scalable, responsive, and user-friendly web applications** while continuously improving my skills.
+
+- 🔭 Currently working on **MERN Stack projects**
+- 🌱 Learning **Advanced React, REST APIs & Backend Architecture**
+- 💡 Interested in **full stack development & real-world problem solving**
+- 📂 View my work: [GitHub Repositories](https://github.com/HarshhVaghani)
+- 📧 Email: **hvaghani89@gmail.com**
+
+---
+
+## 🧰 MERN Tech Stack
+
+### Frontend
+- React.js
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS / Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- RESTful APIs
+
+### Database
+- MongoDB
+- MySQL (Basic)
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Linux Basics
+
+---
+
+## 📌 Featured Projects (Learning & Practice)
+
+🛒 **E-Commerce Web Application (MERN)**  
+- Product listing, cart, authentication & backend APIs  
+- Tech: React, Node.js, Express, MongoDB
+
+📝 **Task Management System**  
+- CRUD operations with clean UI and data persistence  
+- Tech: JavaScript, React, Local Storage
+
+🏥 **Hospital Management System (Case Study)**  
+- System design, use cases & database schema  
+- Tech: MERN Stack
+
+👉 *More projects available in repositories.*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:hvaghani89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshhvaghani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/tech_with_harsh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on **HTML / CSS Projects**  
-- 🌱 I’m learning **Frontend & Backend Development**  
-- 👨‍💻 Check out my projects 👉 [GitHub](https://github.com/vaghaniharshh)  
-- 📫 Reach me at **hvaghani89@gmail.com**  
-- ⚡ Fun fact: *I love exploring new tech every day*  
+## ⚒️ Languages & Tools
 
----
-
-### 🌐 Connect with Me  
 <p align="left">
-  <a href="mailto:hvaghani89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshhvaghani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/tech_with_harsh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
-### ⚒️ Languages & Tools  
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
-
----
-
-
-
----
-
-### 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshhVaghani&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshhVaghani&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
+## 📈 Contribution Activity
 
-
-### 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshhVaghani&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshhVaghani&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/Vaghaniharshh/Vaghaniharshh/blob/output/github-contribution-grid-snake.svg)  
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/HarshhVaghani/HarshhVaghani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🚀 Fun Extras  
-- 🎯 Always exploring **new tech stacks**  
-- 📝 Sometimes I write about coding & development  
-- 🧩 Motto: *Keep learning, keep building*  
+## 🚀 Developer Mindset
+
+- 🎯 Strong focus on fundamentals
+- 📚 Consistent learner
+- 🧠 Problem-solving approach
+- 🧩 *“Learn deeply. Build consistently.”*
