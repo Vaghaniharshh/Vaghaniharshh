@@ -3,17 +3,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshhVaghani&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HarshhVaghani&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshhVaghani&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshhVaghani&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshhVaghani&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 
