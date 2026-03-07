@@ -102,7 +102,7 @@ I am passionate about building **scalable, responsive, and user-friendly web app
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshhVaghani&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshhVaghani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
