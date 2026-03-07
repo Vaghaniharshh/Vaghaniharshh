@@ -1,129 +1,194 @@
 <h1 align="center">Hi 👋, I'm Harsh Vaghani</h1>
 <h3 align="center">MERN Stack Developer (Fresher) | Building Full Stack Web Applications</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+</p>
+
 ---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HarshhVaghani&show_icons=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshhVaghani&layout=compact)
-
-
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HarshhVaghani&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **MERN Stack Developer (Fresher)** with a strong foundation in **MongoDB, Express.js, React.js, and Node.js**.  
-I am passionate about building **scalable, responsive, and user-friendly web applications** while continuously improving my skills.
+I am a **MERN Stack Developer (Fresher)** with a strong foundation in **MongoDB, Express.js, React.js, and Node.js**.
+I love building **scalable, responsive, and user-friendly web applications** and continuously improving my development skills.
 
-- 🔭 Currently working on **MERN Stack projects**
-- 🌱 Learning **Advanced React, REST APIs & Backend Architecture**
-- 💡 Interested in **full stack development & real-world problem solving**
-- 📂 View my work: [GitHub Repositories](https://github.com/HarshhVaghani)
-- 📧 Email: **hvaghani89@gmail.com**
+* 🔭 Currently working on **MERN Stack Projects**
+* 🌱 Learning **Advanced React, REST APIs & Backend Architecture**
+* 💡 Interested in **Full Stack Development & Real World Problem Solving**
+* 📂 View my work: **[GitHub Repositories](https://github.com/HarshhVaghani)**
+* 📧 Email: **[hvaghani89@gmail.com](mailto:hvaghani89@gmail.com)**
 
 ---
 
-## 🧰 MERN Tech Stack
+# 🧰 MERN Tech Stack
 
 ### Frontend
-- React.js
-- HTML5, CSS3, JavaScript (ES6+)
-- Tailwind CSS / Bootstrap
+
+* React.js
+* HTML5, CSS3, JavaScript (ES6+)
+* Tailwind CSS / Bootstrap
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful APIs
+
+* Node.js
+* Express.js
+* RESTful APIs
 
 ### Database
-- MongoDB
-- MySQL (Basic)
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Linux Basics
+* MongoDB
+* MySQL (Basic)
 
----
+### Tools
 
-## 📌 Featured Projects (Learning & Practice)
-
-🛒 **E-Commerce Web Application (MERN)**  
-- Product listing, cart, authentication & backend APIs  
-- Tech: React, Node.js, Express, MongoDB
-
-📝 **Task Management System**  
-- CRUD operations with clean UI and data persistence  
-- Tech: JavaScript, React, Local Storage
-
-🏥 **Hospital Management System (Case Study)**  
-- System design, use cases & database schema  
-- Tech: MERN Stack
-
-👉 *More projects available in repositories.*
+* Git & GitHub
+* VS Code
+* Postman
+* Linux Basics
 
 ---
 
-## 🌐 Connect With Me
+# ⚒️ Languages & Tools
 
 <p align="left">
-  <a href="mailto:hvaghani89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshhvaghani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/tech_with_harsh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,tailwind,bootstrap,vscode,postman"/>
 </p>
 
 ---
 
-## ⚒️ Languages & Tools
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Blueberry E-Commerce
+
+Modern responsive **React E-commerce UI**
+
+Tech Stack
+React • Vite • TailwindCSS
+
+</td>
+
+<td width="50%">
+
+### 🎧 Spotify Clone
+
+Frontend **Spotify inspired music UI**
+
+Tech Stack
+HTML • TailwindCSS • JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 Personal Portfolio
+
+Animated developer portfolio
+
+Tech Stack
+React • Vite • Tailwind • Anime.js
+
+</td>
+
+<td width="50%">
+
+### 🏦 Loan Company Website
+
+Business responsive landing website
+
+Tech Stack
+HTML • CSS • Tailwind
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshhVaghani&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HarshhVaghani&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshhVaghani&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshhVaghani&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧊 3D Contribution Calendar
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshhVaghani&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/HarshhVaghani/HarshhVaghani/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🚀 Developer Mindset
+
+* 🎯 Strong focus on **fundamentals**
+* 📚 Continuous **learning & improvement**
+* 🧠 Logical **problem solving**
+* 🧩 *“Learn deeply. Build consistently.”*
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+
+<a href="mailto:hvaghani89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshhvaghani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/tech_with_harsh">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 💡 Developer Quote
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshhVaghani&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshhVaghani&theme=tokyo-night&hide_border=true"/>
-</p>
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> — Harold Abelson
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/HarshhVaghani/HarshhVaghani/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Developer Mindset
-
-- 🎯 Strong focus on fundamentals
-- 📚 Consistent learner
-- 🧠 Problem-solving approach
-- 🧩 *“Learn deeply. Build consistently.”*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
